@@ -1,3 +1,4 @@
+// Original Solution
 // const removeFromArray = function (array, valueToRemove) {
 //   let trimmedArray = array;
 //
